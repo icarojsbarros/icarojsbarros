@@ -1,6 +1,6 @@
 # Hi there, I'm Ícaro Barros! 👋
 
-#### Computer Engineering | AWS Certified SAA-C03 | Cloud Solutions | Military Background | 🇧🇷 🇺🇸 🇫🇷
+#### Computer Engineering | AWS SAA-C03 & Azure AZ-900 | Multi-Cloud | Military Background | 🇧🇷 🇺🇸 🇫🇷  
 
 ---
 
