@@ -1,12 +1,12 @@
 # Hi there, I'm Ícaro Barros! 👋
 
-#### Computer Engineering | AWS SAA-C03 & Azure AZ-900 | Multi-Cloud | Military Background | 🇧🇷 🇺🇸 🇫🇷  
+#### Computer Engineering | AWS SAA-C03 & Azure AZ-900 | Multi-Cloud | Military Background | 🇧🇷 🇺🇸 🇫🇷
 
 ---
 
 ### 🚀 About Me
 
-I am a **Computer Engineering** student and an **AWS Certified Solutions Architect (Associate)**, passionate about building resilient and scalable cloud infrastructures.
+I am a **Computer Engineering** student and an **AWS Certified Solutions Architect (Associate)**, passionate about building resilient Multi-Cloud infrastructures (AWS & Azure).
 
 With a **military background**, I bring a unique perspective to DevOps and Engineering: discipline, precise execution, and ability to perform under pressure. I am currently focused on mastering Cloud Computing, Infrastructure as Code (IaC), and Automation.
 
@@ -21,6 +21,7 @@ With a **military background**, I bring a unique perspective to DevOps and Engin
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,13 +43,9 @@ With a **military background**, I bring a unique perspective to DevOps and Engin
 
 ### 📊 GitHub Stats
 
-<div align="center">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=icarojsbarros&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarojsbarros&layout=compact&theme=radical&hide_border=true)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=icarojsbarros&show_icons=true&theme=radical&hide_border=true)](https://github.com/icarojsbarros)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarojsbarros&layout=compact&theme=radical&hide_border=true)](https://github.com/icarojsbarros)
-
-</div>
 ---
 
 <div align="center">
