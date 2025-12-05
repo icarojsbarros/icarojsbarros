@@ -43,10 +43,12 @@ With a **military background**, I bring a unique perspective to DevOps and Engin
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icarojsbarros&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=icarojsbarros&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
-</div>
 
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=icarojsbarros&show_icons=true&theme=radical&hide_border=true)](https://github.com/icarojsbarros)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icarojsbarros&layout=compact&theme=radical&hide_border=true)](https://github.com/icarojsbarros)
+
+</div>
 ---
 
 <div align="center">
