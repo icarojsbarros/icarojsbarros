@@ -41,20 +41,6 @@ With a **military background**, I bring a unique perspective to DevOps and Engin
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=icarojsbarros&theme=radical&hide_border=true" alt="GitHub Streak" />
-
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=icarojsbarros&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-
-</div>
-
----
-
 <div align="center">
   <p>Connect with me:</p>
   <a href="https://linkedin.com/in/icarojsbarros" target="_blank">
