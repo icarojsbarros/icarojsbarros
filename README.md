@@ -1,6 +1,6 @@
 # Hi there, I'm Ícaro Barros! 👋
 
-#### Computer Engineering | DevOps | Multi-Cloud | Military Background | 🇧🇷 🇺🇸 🇫🇷
+#### Computer Engineer | DevOps | AWS Certified | Military Background | 🇧🇷 🇺🇸 🇫🇷
 
 ---
 
