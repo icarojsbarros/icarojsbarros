@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am a **Computer Engineering** student and an **AWS Certified Solutions Architect (Associate)**, passionate about building resilient Multi-Cloud infrastructures (AWS & Azure).
+I am a **Computer Engineer** student and an **AWS Certified Solutions Architect (Associate)**, passionate about building resilient Multi-Cloud infrastructures (AWS & Azure).
 
 With a **military background**, I bring a unique perspective to DevOps and Engineering: discipline, precise execution, and ability to perform under pressure. I am currently focused on mastering Cloud Computing, Infrastructure as Code (IaC), and Automation.
 
