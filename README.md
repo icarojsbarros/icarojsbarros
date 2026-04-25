@@ -4,20 +4,20 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-I am a **Computer Engineer** student and an **AWS Certified Solutions Architect (Associate)**, passionate about building resilient Multi-Cloud infrastructures (AWS & Azure).
+I am a **Computer Engineering** student and an **AWS Certified Solutions Architect (Associate)**, passionate about building resilient Multi-Cloud infrastructures (AWS & Azure).
 
 With a **military background**, I bring a unique perspective to DevOps and Engineering: discipline, precise execution, and ability to perform under pressure. I am currently focused on mastering Cloud Computing, Infrastructure as Code (IaC), and Automation.
 
-* ☁️ **Focus:** Multi-Cloud Architecture (AWS & Azure), DevOps, and Automation.
-* 🎓 **Studying:** Computer Engineering.
-* 🎖️ **Soft Skills:** Leadership, Adaptability, and Problem Solving (honed by military service).
-* 💬 **Languages:** Native Portuguese, Advanced English, and Intermediate French.
+* **Focus:** Multi-Cloud Architecture (AWS & Azure), DevOps, and Automation.
+* **Studying:** Computer Engineering.
+* **Soft Skills:** Leadership, Adaptability, and Problem Solving (honed by military service).
+* **Languages:** Native Portuguese, Advanced English, and Intermediate French.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -31,12 +31,12 @@ With a **military background**, I bring a unique perspective to DevOps and Engin
 
 ---
 
-### 🏆 Certifications
+### Certifications
 
 | Certification | Issuer | Status |
 | :--- | :--- | :--- |
 | **AWS Certified Solutions Architect – Associate (SAA-C03)** | Amazon Web Services | ✅ Active |
-| **AWS Certified Cloud Practitioner** | Amazon Web Services | ✅ Active |
+| **AWS Certified Cloud Practitioner (CLF-C02)** | Amazon Web Services | ✅ Active |
 | **Microsoft Certified: Azure Fundamentals (AZ-900)** | Microsoft | ✅ Active |
 
 ---
